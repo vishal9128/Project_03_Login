@@ -32,7 +32,7 @@ function App() {
           <button>Next</button>
         </form>
 
-        <button>Forget Password?</button>
+        <button>Forgot Password?</button>
         <p>
           Don't have an account? <a>Sign Up</a>
         </p>
